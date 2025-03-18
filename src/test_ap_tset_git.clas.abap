@@ -16,6 +16,6 @@ CLASS test_ap_tset_git IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.
-    out->write( 'Hello World' ).
+    out->write( 'Hello new World' ).
   ENDMETHOD.
 ENDCLASS.
